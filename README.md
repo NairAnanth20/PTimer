@@ -1,0 +1,1 @@
+This Android application serves as a simple hourly timer that repeatedly triggers a sound at regular intervals (every hour) until explicitly stopped by the user. It provides visual feedback in the form of a countdown timer and ensures smooth user interaction with start and stop buttons.
